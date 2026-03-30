@@ -26,3 +26,20 @@ This project demonstrates deploying a Dockerized application on AWS EC2 with a c
 
 ## Author
 Mohammed Raheem D
+
+## Screenshots
+
+### 🌐 Website
+![Portfolio](WesiteFirst.jpeg)
+
+### 🌐 Website
+![Portfolio](WebsitePreview.jpeg)
+
+### ☁️ AWS EC2 Setup
+![EC2](EC2Instance.jpeg)
+
+### ☁️ AWS EC2 Setup
+![EC2](EC2T.jpeg)
+
+### 🔧 Nginx Setup
+![Nginx](EC2InstanceT.png)
