@@ -42,4 +42,4 @@ Mohammed Raheem D
 ![EC2](EC2T.jpeg)
 
 ### 🔧 Nginx Setup
-![Nginx](EC2InstanceT.png)
+![Nginx](EC2InstanceT.jpeg)
