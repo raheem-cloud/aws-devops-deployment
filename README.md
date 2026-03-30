@@ -30,7 +30,7 @@ Mohammed Raheem D
 ## Screenshots
 
 ### 🌐 Website
-![Portfolio](WesiteFirst.jpeg)
+![Portfolio](WebsiteFirst.jpeg)
 
 ### 🌐 Website
 ![Portfolio](WebsitePreview.jpeg)
